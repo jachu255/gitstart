@@ -1,3 +1,5 @@
+import com.jan255.*;
+
 import java.util.*;
 public class Main {
 
@@ -12,6 +14,10 @@ public class Main {
         Set<String> setWithNames = new HashSet<>();
         setWithNames.add("Marcin");
         setWithNames.add("Marek");
+
+        Numer1 x = new Numer1();
+        Numer2 y = new Numer2();
+        System.out.println(x.nr1());
 
     }
 }
