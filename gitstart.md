@@ -23,3 +23,7 @@ Np zrobiona została literówka lub kolejne nie powinny być w nowym komicie.
     git commit –amend -m “Edit history”
 
 źródło https://stormit.pl/git/#nadpisanie-historii-zmian-amend
+
+
+
+https://tomaszprasolek.pl/rebase-podczas-synchronizacji-repozytorium-polecenie-git-pull-rebase/
